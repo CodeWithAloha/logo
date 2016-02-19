@@ -1,15 +1,11 @@
 # Code For Hawaii Official Logo
 The official logo PNG assets are stored in our google drive at:
-
 https://drive.google.com/open?id=0B1pbQjrivMXBQzIwQzgwQlo4eEk
 
-Logo uses the Neris typeface:
+Logo uses the [Neris typeface](http://www.fontsquirrel.com/fonts/neris).
 
-http://www.fontsquirrel.com/fonts/neris
+Shaka used in logo is a modification of [Christine Komatsu's icon](https://thenounproject.com/term/shaka/65044/) (CC BY 3.0).
 
-Shaka used in logo is a modification of Christine Komatsu's shaka icon (CC BY 3.0):
-
-https://thenounproject.com/term/shaka/65044/ 
 
 Logo color options:
 ```
